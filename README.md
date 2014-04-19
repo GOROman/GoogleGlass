@@ -1,4 +1,4 @@
-GoogleGlass
-===========
+﻿さくせん GoogleGlassでいろいろやろうぜ
+======================================
 
 for GoogleGlass
